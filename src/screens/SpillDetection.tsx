@@ -309,7 +309,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
                 fontWeight: 700,
               }}
             >
-              â†‘ UPLOAD SAR IMAGE
+              ↑ UPLOAD SAR IMAGE
             </button>
 
             {selectedFile && (
@@ -604,7 +604,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
                       fontWeight: 700,
                     }}
                   >
-                    âœ“ OIL SPILL DETECTED
+                    ✓ OIL SPILL DETECTED
                   </div>
                 )}
               </div>
@@ -658,7 +658,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
                   label="DIMENSIONS"
                   value={
                     imageWidth && imageHeight
-                      ? `${imageWidth} Ã— ${imageHeight}px`
+                      ? `${imageWidth} × ${imageHeight}px`
                       : 'SAR / GeoTIFF'
                   }
                 />
@@ -1024,7 +1024,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
                         fontWeight: 700,
                       }}
                     >
-                      â— {result.status}
+                      ● {result.status}
                     </div>
                   </div>
 
