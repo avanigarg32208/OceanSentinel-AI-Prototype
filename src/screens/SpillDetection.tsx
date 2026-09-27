@@ -927,7 +927,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
 
                   <ResultCard
                     title="SPILL AREA"
-                    value={`${result.spillArea} kmÂ²`}
+                    value={`${result.spillArea} km²`}
                     icon={<IconSatellite size={17} />}
                   />
 
@@ -955,12 +955,12 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
 
                   <DataCard
                     label="LATITUDE"
-                    value={`${result.latitude}Â° N`}
+                    value={`${result.latitude}° N`}
                   />
 
                   <DataCard
                     label="LONGITUDE"
-                    value={`${result.longitude}Â° E`}
+                    value={`${result.longitude}° E`}
                   />
 
                   <DataCard
@@ -1053,7 +1053,7 @@ export default function SpillDetection({ onNavigate: _onNavigate }: Props) {
                         fontWeight: 700,
                       }}
                     >
-                      {result.spillArea} kmÂ²
+                      {result.spillArea} km²
                     </span>{' '}
                     with an AI confidence of{' '}
                     <span
@@ -1289,3 +1289,4 @@ function DataCard({
     </div>
   );
 }
+
