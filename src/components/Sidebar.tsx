@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import type { Screen } from '../types';
 import {
   IconDashboard, IconSatellite, IconWave, IconAIS, IconShip,
@@ -52,7 +52,7 @@ export default function Sidebar({ active, onNavigate }: SidebarProps) {
             <div style={{ fontFamily: 'Rajdhani, sans-serif', fontWeight: 700, fontSize: 15, color: '#00d4ff', letterSpacing: 1 }}>
               OCEAN<span style={{ color: '#e2eaf5' }}>SENTINEL</span>
             </div>
-            <div style={{ fontSize: 9, color: '#4a6a8a', letterSpacing: 1.5, fontFamily: 'JetBrains Mono, monospace' }}>AI · v2.1.4</div>
+            <div style={{ fontSize: 9, color: '#4a6a8a', letterSpacing: 1.5, fontFamily: 'JetBrains Mono, monospace' }}>AI Â· v2.1.4</div>
           </div>
         </div>
       </div>
@@ -126,11 +126,13 @@ export default function Sidebar({ active, onNavigate }: SidebarProps) {
             <IconUser size={14} />
           </div>
           <div>
-            <div style={{ fontSize: 12, color: '#e2eaf5', fontWeight: 600 }}>Cdr. A. Ramos</div>
-            <div style={{ fontSize: 10, color: '#4a6a8a' }}>Senior Analyst</div>
+            <div style={{ fontSize: 12, color: '#e2eaf5', fontWeight: 600 }}>Team Zapped</div>
           </div>
         </div>
       </div>
     </aside>
   );
 }
+
+
+
