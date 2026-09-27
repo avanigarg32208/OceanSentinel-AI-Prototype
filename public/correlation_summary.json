@@ -1,0 +1,11 @@
+{
+  "module": "OceanSentinel M4 AIS Vessel Correlation",
+  "spill_records": 941,
+  "ais_records": 8,
+  "candidate_records": 46,
+  "time_window_minutes": 15,
+  "geolocated_spill_records": 0,
+  "correlation_modes": {
+    "TEMPORAL_ONLY": 46
+  }
+}

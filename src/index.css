@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+html, body, #root {
+  height: 100%;
+  background: #030d1a;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #1a3050 transparent;
+}
+*::-webkit-scrollbar { width: 4px; height: 4px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb { background: #1a3050; border-radius: 2px; }
+
+@theme inline {
+  --color-navy-950: #030d1a;
+  --color-navy-900: #060f20;
+  --color-navy-800: #071526;
+  --color-navy-700: #0a1e35;
+  --color-navy-600: #0d2744;
+  --color-navy-500: #1a3050;
+  --color-navy-400: #264870;
+  --color-cyan-400: #00d4ff;
+  --color-cyan-300: #33ddff;
+  --color-cyan-500: #00b8e0;
+  --color-alert-red: #ff3b3b;
+  --color-alert-orange: #ff8c00;
+  --color-alert-yellow: #ffd700;
+  --color-success: #00e57a;
+  --color-text-primary: #e2eaf5;
+  --color-text-secondary: #8aaac8;
+  --color-text-muted: #4a6a8a;
+  --font-rajdhani: 'Rajdhani', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}

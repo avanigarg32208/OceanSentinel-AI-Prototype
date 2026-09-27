@@ -1,0 +1,514 @@
+[
+  {
+    "image": "oc-0014.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 15.535,
+    "output_image": "/yolo-results-real/oc-0014.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0024.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0024.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0052.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.7224,
+    "total_bbox_area_pixels": 14447.81,
+    "processing_time_seconds": 0.061,
+    "output_image": "/yolo-results-real/oc-0052.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.7224,
+        "bbox": [
+          217.5,
+          219.22,
+          314.49,
+          368.18
+        ],
+        "bbox_area_pixels": 14447.81
+      }
+    ]
+  },
+  {
+    "image": "oc-0055.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.4261,
+    "total_bbox_area_pixels": 1971.96,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0055.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4261,
+        "bbox": [
+          468.77,
+          449.84,
+          516.08,
+          491.53
+        ],
+        "bbox_area_pixels": 1971.96
+      }
+    ]
+  },
+  {
+    "image": "oc-0062.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 3,
+    "max_confidence": 0.4254,
+    "total_bbox_area_pixels": 4173.99,
+    "processing_time_seconds": 0.021,
+    "output_image": "/yolo-results-real/oc-0062.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4254,
+        "bbox": [
+          391.79,
+          42.44,
+          420.57,
+          67.03
+        ],
+        "bbox_area_pixels": 707.67
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.3565,
+        "bbox": [
+          614.93,
+          452.63,
+          640.0,
+          500.12
+        ],
+        "bbox_area_pixels": 1190.72
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.328,
+        "bbox": [
+          593.68,
+          367.21,
+          623.67,
+          443.1
+        ],
+        "bbox_area_pixels": 2275.6
+      }
+    ]
+  },
+  {
+    "image": "oc-0066.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.266,
+    "total_bbox_area_pixels": 9590.52,
+    "processing_time_seconds": 0.017,
+    "output_image": "/yolo-results-real/oc-0066.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.266,
+        "bbox": [
+          154.97,
+          190.28,
+          257.53,
+          283.79
+        ],
+        "bbox_area_pixels": 9590.52
+      }
+    ]
+  },
+  {
+    "image": "oc-0089.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 3,
+    "max_confidence": 0.6841,
+    "total_bbox_area_pixels": 18332.38,
+    "processing_time_seconds": 0.021,
+    "output_image": "/yolo-results-real/oc-0089.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.6841,
+        "bbox": [
+          325.19,
+          320.06,
+          389.16,
+          440.78
+        ],
+        "bbox_area_pixels": 7723.34
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.5122,
+        "bbox": [
+          243.14,
+          199.75,
+          332.69,
+          303.48
+        ],
+        "bbox_area_pixels": 9288.97
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2982,
+        "bbox": [
+          174.47,
+          95.77,
+          202.11,
+          143.53
+        ],
+        "bbox_area_pixels": 1320.07
+      }
+    ]
+  },
+  {
+    "image": "oc-0094.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.38,
+    "total_bbox_area_pixels": 8467.61,
+    "processing_time_seconds": 0.017,
+    "output_image": "/yolo-results-real/oc-0094.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.38,
+        "bbox": [
+          308.96,
+          247.28,
+          359.4,
+          415.15
+        ],
+        "bbox_area_pixels": 8467.61
+      }
+    ]
+  },
+  {
+    "image": "oc-0097.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 4,
+    "max_confidence": 0.4017,
+    "total_bbox_area_pixels": 14618.54,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0097.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4017,
+        "bbox": [
+          294.9,
+          265.94,
+          322.53,
+          305.32
+        ],
+        "bbox_area_pixels": 1088.19
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.3488,
+        "bbox": [
+          330.83,
+          292.04,
+          357.56,
+          321.62
+        ],
+        "bbox_area_pixels": 790.91
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2839,
+        "bbox": [
+          302.36,
+          349.52,
+          332.34,
+          391.74
+        ],
+        "bbox_area_pixels": 1265.8
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2688,
+        "bbox": [
+          323.89,
+          216.65,
+          431.63,
+          323.15
+        ],
+        "bbox_area_pixels": 11473.64
+      }
+    ]
+  },
+  {
+    "image": "oc-0115.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 5,
+    "max_confidence": 0.4059,
+    "total_bbox_area_pixels": 4527.64,
+    "processing_time_seconds": 0.019,
+    "output_image": "/yolo-results-real/oc-0115.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4059,
+        "bbox": [
+          566.98,
+          251.4,
+          599.02,
+          280.98
+        ],
+        "bbox_area_pixels": 947.75
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.3076,
+        "bbox": [
+          603.64,
+          331.06,
+          618.92,
+          352.27
+        ],
+        "bbox_area_pixels": 324.13
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2944,
+        "bbox": [
+          571.91,
+          0.0,
+          640.0,
+          34.63
+        ],
+        "bbox_area_pixels": 2357.71
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2829,
+        "bbox": [
+          627.47,
+          529.27,
+          639.32,
+          544.25
+        ],
+        "bbox_area_pixels": 177.55
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.2543,
+        "bbox": [
+          581.19,
+          0.0,
+          640.0,
+          12.25
+        ],
+        "bbox_area_pixels": 720.5
+      }
+    ]
+  },
+  {
+    "image": "oc-0131.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0131.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0136.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 2,
+    "max_confidence": 0.7589,
+    "total_bbox_area_pixels": 17507.07,
+    "processing_time_seconds": 0.016,
+    "output_image": "/yolo-results-real/oc-0136.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.7589,
+        "bbox": [
+          287.66,
+          281.88,
+          366.01,
+          359.09
+        ],
+        "bbox_area_pixels": 6049.32
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.3665,
+        "bbox": [
+          513.42,
+          541.48,
+          630.18,
+          639.61
+        ],
+        "bbox_area_pixels": 11457.75
+      }
+    ]
+  },
+  {
+    "image": "oc-0143.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 2,
+    "max_confidence": 0.6682,
+    "total_bbox_area_pixels": 13925.96,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0143.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.6682,
+        "bbox": [
+          373.29,
+          231.73,
+          449.55,
+          326.72
+        ],
+        "bbox_area_pixels": 7243.9
+      },
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.3342,
+        "bbox": [
+          194.88,
+          313.82,
+          282.56,
+          390.03
+        ],
+        "bbox_area_pixels": 6682.06
+      }
+    ]
+  },
+  {
+    "image": "oc-0147.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.016,
+    "output_image": "/yolo-results-real/oc-0147.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0162.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.4728,
+    "total_bbox_area_pixels": 387.07,
+    "processing_time_seconds": 0.019,
+    "output_image": "/yolo-results-real/oc-0162.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4728,
+        "bbox": [
+          313.37,
+          299.34,
+          324.63,
+          333.7
+        ],
+        "bbox_area_pixels": 387.07
+      }
+    ]
+  },
+  {
+    "image": "oc-0164.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.018,
+    "output_image": "/yolo-results-real/oc-0164.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0179.jpg",
+    "status": "OIL SPILL DETECTED",
+    "detection_count": 1,
+    "max_confidence": 0.4903,
+    "total_bbox_area_pixels": 925.08,
+    "processing_time_seconds": 0.019,
+    "output_image": "/yolo-results-real/oc-0179.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "oil",
+        "confidence": 0.4903,
+        "bbox": [
+          518.8,
+          432.72,
+          539.75,
+          476.89
+        ],
+        "bbox_area_pixels": 925.08
+      }
+    ]
+  },
+  {
+    "image": "oc-0187.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.019,
+    "output_image": "/yolo-results-real/oc-0187.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0190.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.019,
+    "output_image": "/yolo-results-real/oc-0190.jpg",
+    "detections": []
+  },
+  {
+    "image": "oc-0192.jpg",
+    "status": "NO OIL SPILL DETECTED",
+    "detection_count": 0,
+    "max_confidence": 0,
+    "total_bbox_area_pixels": 0,
+    "processing_time_seconds": 0.017,
+    "output_image": "/yolo-results-real/oc-0192.jpg",
+    "detections": []
+  }
+]

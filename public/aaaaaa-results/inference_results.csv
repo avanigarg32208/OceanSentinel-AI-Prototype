@@ -1,0 +1,49 @@
+image,status,detection_count,max_confidence,total_bbox_area_pixels,processing_time_seconds,output_image
+class_0_00001.jpg,NO OIL SPILL DETECTED,0,0,0,1.274,/aaaaaa-results/class_0_00001.jpg
+class_0_00002.jpg,OIL SPILL DETECTED,1,0.2696,8759.96,0.039,/aaaaaa-results/class_0_00002.jpg
+class_0_00003.jpg,NO OIL SPILL DETECTED,0,0,0,0.046,/aaaaaa-results/class_0_00003.jpg
+class_0_00004.jpg,NO OIL SPILL DETECTED,0,0,0,0.042,/aaaaaa-results/class_0_00004.jpg
+class_0_00005.jpg,NO OIL SPILL DETECTED,0,0,0,0.044,/aaaaaa-results/class_0_00005.jpg
+class_0_00006.jpg,OIL SPILL DETECTED,1,0.3743,1116.01,0.042,/aaaaaa-results/class_0_00006.jpg
+class_0_00007.jpg,NO OIL SPILL DETECTED,0,0,0,0.044,/aaaaaa-results/class_0_00007.jpg
+class_0_00008.jpg,NO OIL SPILL DETECTED,0,0,0,0.042,/aaaaaa-results/class_0_00008.jpg
+class_0_00013.jpg,NO OIL SPILL DETECTED,0,0,0,0.045,/aaaaaa-results/class_0_00013.jpg
+class_0_00014.jpg,NO OIL SPILL DETECTED,0,0,0,0.043,/aaaaaa-results/class_0_00014.jpg
+class_0_00015.jpg,NO OIL SPILL DETECTED,0,0,0,0.045,/aaaaaa-results/class_0_00015.jpg
+class_0_00016.jpg,NO OIL SPILL DETECTED,0,0,0,0.043,/aaaaaa-results/class_0_00016.jpg
+class_0_00017.jpg,NO OIL SPILL DETECTED,0,0,0,0.041,/aaaaaa-results/class_0_00017.jpg
+class_0_00018.jpg,NO OIL SPILL DETECTED,0,0,0,0.043,/aaaaaa-results/class_0_00018.jpg
+class_0_00019.jpg,NO OIL SPILL DETECTED,0,0,0,0.045,/aaaaaa-results/class_0_00019.jpg
+class_0_00020.jpg,NO OIL SPILL DETECTED,0,0,0,0.04,/aaaaaa-results/class_0_00020.jpg
+class_0_00025.jpg,OIL SPILL DETECTED,1,0.2667,69656.2,0.039,/aaaaaa-results/class_0_00025.jpg
+class_0_00026.jpg,NO OIL SPILL DETECTED,0,0,0,0.041,/aaaaaa-results/class_0_00026.jpg
+class_0_00027.jpg,NO OIL SPILL DETECTED,0,0,0,0.038,/aaaaaa-results/class_0_00027.jpg
+class_0_00028.jpg,NO OIL SPILL DETECTED,0,0,0,0.04,/aaaaaa-results/class_0_00028.jpg
+class_0_00029.jpg,OIL SPILL DETECTED,1,0.5219,3097.15,0.042,/aaaaaa-results/class_0_00029.jpg
+class_0_00030.jpg,OIL SPILL DETECTED,2,0.5674,2471.69,0.037,/aaaaaa-results/class_0_00030.jpg
+class_0_00031.jpg,NO OIL SPILL DETECTED,0,0,0,0.041,/aaaaaa-results/class_0_00031.jpg
+class_0_00032.jpg,NO OIL SPILL DETECTED,0,0,0,0.04,/aaaaaa-results/class_0_00032.jpg
+class_1_00001.jpg,OIL SPILL DETECTED,3,0.7572,10825.82,0.051,/aaaaaa-results/class_1_00001.jpg
+class_1_00002.jpg,NO OIL SPILL DETECTED,0,0,0,0.045,/aaaaaa-results/class_1_00002.jpg
+class_1_00003.jpg,OIL SPILL DETECTED,2,0.8787,4422.56,0.044,/aaaaaa-results/class_1_00003.jpg
+class_1_00004.jpg,OIL SPILL DETECTED,4,0.5015,295865.36,0.044,/aaaaaa-results/class_1_00004.jpg
+class_1_00005.jpg,NO OIL SPILL DETECTED,0,0,0,0.044,/aaaaaa-results/class_1_00005.jpg
+class_1_00006.jpg,OIL SPILL DETECTED,2,0.665,69489.33,0.049,/aaaaaa-results/class_1_00006.jpg
+class_1_00007.jpg,NO OIL SPILL DETECTED,0,0,0,0.05,/aaaaaa-results/class_1_00007.jpg
+class_1_00008.jpg,OIL SPILL DETECTED,4,0.618,4630.73,0.044,/aaaaaa-results/class_1_00008.jpg
+class_1_00009.jpg,OIL SPILL DETECTED,1,0.7967,1472.44,0.049,/aaaaaa-results/class_1_00009.jpg
+class_1_00010.jpg,OIL SPILL DETECTED,1,0.4503,8169.67,0.046,/aaaaaa-results/class_1_00010.jpg
+class_1_00011.jpg,NO OIL SPILL DETECTED,0,0,0,0.044,/aaaaaa-results/class_1_00011.jpg
+class_1_00012.jpg,OIL SPILL DETECTED,1,0.8717,33725.11,0.045,/aaaaaa-results/class_1_00012.jpg
+class_1_00013.jpg,OIL SPILL DETECTED,1,0.714,9614.26,0.047,/aaaaaa-results/class_1_00013.jpg
+class_1_00014.jpg,OIL SPILL DETECTED,3,0.7938,19556.1,0.043,/aaaaaa-results/class_1_00014.jpg
+class_1_00015.jpg,NO OIL SPILL DETECTED,0,0,0,0.044,/aaaaaa-results/class_1_00015.jpg
+class_1_00016.jpg,OIL SPILL DETECTED,2,0.8391,6132.02,0.048,/aaaaaa-results/class_1_00016.jpg
+class_1_00017.jpg,OIL SPILL DETECTED,1,0.7989,5501.19,0.044,/aaaaaa-results/class_1_00017.jpg
+class_1_00018.jpg,OIL SPILL DETECTED,2,0.6372,4315.11,0.05,/aaaaaa-results/class_1_00018.jpg
+class_1_00019.jpg,OIL SPILL DETECTED,1,0.4806,16704.72,0.047,/aaaaaa-results/class_1_00019.jpg
+class_1_00020.jpg,OIL SPILL DETECTED,1,0.5084,818.86,0.048,/aaaaaa-results/class_1_00020.jpg
+class_1_00021.jpg,OIL SPILL DETECTED,2,0.7577,12605.36,0.045,/aaaaaa-results/class_1_00021.jpg
+class_1_00022.jpg,OIL SPILL DETECTED,5,0.7375,61569.04,0.045,/aaaaaa-results/class_1_00022.jpg
+class_1_00023.jpg,OIL SPILL DETECTED,1,0.4408,5886.99,0.042,/aaaaaa-results/class_1_00023.jpg
+class_1_00024.jpg,OIL SPILL DETECTED,1,0.6117,16991.22,0.045,/aaaaaa-results/class_1_00024.jpg

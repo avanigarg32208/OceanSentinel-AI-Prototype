@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered maritime surveillance dashboard enables government agencies and environmental teams to detect oil spills, track vessels, and generate incident reports for effective response.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

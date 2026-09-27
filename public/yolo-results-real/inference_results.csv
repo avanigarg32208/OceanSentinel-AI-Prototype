@@ -1,0 +1,21 @@
+image,status,detection_count,max_confidence,total_bbox_area_pixels,processing_time_seconds,output_image
+oc-0014.jpg,NO OIL SPILL DETECTED,0,0,0,15.535,/yolo-results-real/oc-0014.jpg
+oc-0024.jpg,NO OIL SPILL DETECTED,0,0,0,0.018,/yolo-results-real/oc-0024.jpg
+oc-0052.jpg,OIL SPILL DETECTED,1,0.7224,14447.81,0.061,/yolo-results-real/oc-0052.jpg
+oc-0055.jpg,OIL SPILL DETECTED,1,0.4261,1971.96,0.018,/yolo-results-real/oc-0055.jpg
+oc-0062.jpg,OIL SPILL DETECTED,3,0.4254,4173.99,0.021,/yolo-results-real/oc-0062.jpg
+oc-0066.jpg,OIL SPILL DETECTED,1,0.266,9590.52,0.017,/yolo-results-real/oc-0066.jpg
+oc-0089.jpg,OIL SPILL DETECTED,3,0.6841,18332.38,0.021,/yolo-results-real/oc-0089.jpg
+oc-0094.jpg,OIL SPILL DETECTED,1,0.38,8467.61,0.017,/yolo-results-real/oc-0094.jpg
+oc-0097.jpg,OIL SPILL DETECTED,4,0.4017,14618.54,0.018,/yolo-results-real/oc-0097.jpg
+oc-0115.jpg,OIL SPILL DETECTED,5,0.4059,4527.64,0.019,/yolo-results-real/oc-0115.jpg
+oc-0131.jpg,NO OIL SPILL DETECTED,0,0,0,0.018,/yolo-results-real/oc-0131.jpg
+oc-0136.jpg,OIL SPILL DETECTED,2,0.7589,17507.07,0.016,/yolo-results-real/oc-0136.jpg
+oc-0143.jpg,OIL SPILL DETECTED,2,0.6682,13925.96,0.018,/yolo-results-real/oc-0143.jpg
+oc-0147.jpg,NO OIL SPILL DETECTED,0,0,0,0.016,/yolo-results-real/oc-0147.jpg
+oc-0162.jpg,OIL SPILL DETECTED,1,0.4728,387.07,0.019,/yolo-results-real/oc-0162.jpg
+oc-0164.jpg,NO OIL SPILL DETECTED,0,0,0,0.018,/yolo-results-real/oc-0164.jpg
+oc-0179.jpg,OIL SPILL DETECTED,1,0.4903,925.08,0.019,/yolo-results-real/oc-0179.jpg
+oc-0187.jpg,NO OIL SPILL DETECTED,0,0,0,0.019,/yolo-results-real/oc-0187.jpg
+oc-0190.jpg,NO OIL SPILL DETECTED,0,0,0,0.019,/yolo-results-real/oc-0190.jpg
+oc-0192.jpg,NO OIL SPILL DETECTED,0,0,0,0.017,/yolo-results-real/oc-0192.jpg
